@@ -4,3 +4,5 @@ A standalone html fork of the codefilm-unpacked browser extension for creating r
 Browser extension version:
 
 https://github.com/txtatech/codefilm-unpacked
+
+![Overlay Example Image ](https://github.com/txtatech/codefilm-unpacked-html/blob/main/codefilm-overlay-example.png)
