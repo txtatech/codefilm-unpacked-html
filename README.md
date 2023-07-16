@@ -1,5 +1,5 @@
 # codefilm-unpacked-html
-A standalone html fork of the codefilm-unpacked browser extension for creating a re-sizable overlay to show the current clipboard contents.
+A standalone html fork of the codefilm-unpacked browser extension for creating re-sizable and pinnable overlays that contain clipboard contents.
 
 Browser extension version:
 
