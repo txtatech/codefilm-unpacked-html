@@ -1,0 +1,28 @@
+<!-- codefilm-masked.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Code Film Masked</title>
+    <style>
+        #codeInput {
+            width: 100%;
+            height: 300px;
+        }
+        .highlight {
+            background-color: yellow;
+        }
+        .masked-region {
+            background-color: lightgray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Code Film Masked</h1>
+    <textarea id="codeInput"></textarea>
+    <button onclick="maskInput()">Mask Input</button>
+    <button onclick="unmaskInput()">Unmask Input</button>
+    <button onclick="compareCodes()">Compare Codes</button>
+<button id="toggle-button">Toggle</button>
+    <script src="script.js"></script>
+</body>
+</html>
